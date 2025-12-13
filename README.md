@@ -4,7 +4,7 @@ Mobile app to help users record and monitor their vehicle's fuel usage
 
 Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
 --------------------------------
-
+The goal of this project was to design and develop a functional mobile application that follows mobile development best practices while prioritizing user-centered design. The app was created to address a practical user need: tracking fuel usage and efficiency over time in a simple, intuitive way. Users are able to create an account, configure personal preferences such as currency, preferred fuel brands, and MPG alert thresholds, and then log fuel refills or import historical data via CSV. The overall requirement was not only to build a working app, but to demonstrate thoughtful planning, usability, and maintainable code.
 --------------------------------
 What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
 --------------------------------
