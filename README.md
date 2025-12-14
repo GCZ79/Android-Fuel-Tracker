@@ -14,25 +14,25 @@ Mobile app to help users record and monitor their vehicle's fuel usage
 <img width="180" height="360" alt="03 Fuel Refill" src="https://github.com/user-attachments/assets/b60ecb60-5e93-4ea6-82d8-f3a4f968a540" />
 <img width="180" height="360" alt="04 Database" src="https://github.com/user-attachments/assets/42f4b0bb-c6a1-4fe4-ad53-5c7ba5db0f1b" />
 <img width="180" height="360" alt="05 Statistics" src="https://github.com/user-attachments/assets/7b1c0eea-a2bf-42c6-a86b-939c5800dd32" />
-
+##
 --------------------------------
 --------------------------------
-How did you approach the process of coding your app? What techniques or strategies did you use? How could those techniques or strategies be applied in the future?
+# How did you approach the process of coding your app? What techniques or strategies did you use? How could those techniques or strategies be applied in the future?
 --------------------------------
-
---------------------------------
---------------------------------
-How did you test to ensure your code was functional? Why is this process important, and what did it reveal?
---------------------------------
-
+## 
 --------------------------------
 --------------------------------
-Consider the full app design and development process from initial planning to finalization. Where did you have to innovate to overcome a challenge?
+# How did you test to ensure your code was functional? Why is this process important, and what did it reveal?
 --------------------------------
-
+## 
 --------------------------------
 --------------------------------
-In what specific component of your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
+# Consider the full app design and development process from initial planning to finalization. Where did you have to innovate to overcome a challenge?
 --------------------------------
-
+## 
+--------------------------------
+--------------------------------
+# In what specific component of your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
+--------------------------------
+## 
 --------------------------------
