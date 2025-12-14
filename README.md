@@ -26,7 +26,7 @@ Mobile app to help users record and monitor their vehicle's fuel usage
 --------------------------------
 ## Consider the full app design and development process from initial planning to finalization. Where did you have to innovate to overcome a challenge?
 
-### text
+### One of the main challenges throughout the design and development process was adapting to the constraints of mobile UI design, and allowing interactive elements to have the required size and adequate positioning to allow users to interact with them smoothly. Particularly in the Database page, I would have preferred using smaller "Edit" and "Delete" buttons, which would have allowed me to fit all the data and buttons for each record in a single row. Unfortunately, if I had made the buttons smaller, they would have been useless without utilizing a stylus or a mouse. For this reason, I split each record into two rows, overcoming this visualization challenge while keeping the data easily readable.
 --------------------------------
 ## In what specific component of your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
 
