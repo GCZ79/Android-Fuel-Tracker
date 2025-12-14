@@ -22,7 +22,7 @@ Mobile app to help users record and monitor their vehicle's fuel usage
 --------------------------------
 ## How did you test to ensure your code was functional? Why is this process important, and what did it reveal?
 
-### text
+### Testing for usability and security played a fundamental role in making sure that the app functioned as intended. I used both virtual and physical devices to try to recreate any actions users could perform, from rotating the screen during a refill session to entering wrong credentials, invalid numerical input, or even going back or to the home screen with the phone buttons. I also validated and sanitized user inputs, making sure to handle all the edge cases to help me identify logical errors and UI inconsistencies. Testing was very important because it allowed me to confirm that the app worked as intended, and showed me where to put safeguards to prevent any negative outcomes like crashes, accepting wrong data, or circumventing the security of the data and sessions.
 --------------------------------
 ## Consider the full app design and development process from initial planning to finalization. Where did you have to innovate to overcome a challenge?
 
